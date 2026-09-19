@@ -4,7 +4,7 @@
 
 A simple solar system with a cutey rocket
 
-## What is Tiny Tapeout? 
+## What is Tiny Tapeout? AHHHHH
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
 
