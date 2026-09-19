@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The plantes rotates around the sun, the stars shines brightly, a rocket is flying
 
 ## How to test
 
-Explain how to use your project
+Hmmm
 
 ## External hardware
 
