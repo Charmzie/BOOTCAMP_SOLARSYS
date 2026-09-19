@@ -2,7 +2,7 @@
 
 # BOOTCAMP_ACT_CHAMZ
 
-- [Read the documentation for project](docs/info.md)
+A simple solar system with a cutey rocket
 
 ## What is Tiny Tapeout?
 
