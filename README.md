@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# BOOTCAMP_ACT_CHAMZi
+# SOLAR_ACT_CHAMZi
 
 A simple solar system with a cutey rocket
 
